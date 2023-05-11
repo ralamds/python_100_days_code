@@ -1,12 +1,24 @@
-#1. Create a greeting for your program.
+"""
+This program generates a band name by combining the user's hometown and pet name.
+
+Usage:
+1. Run the program
+2. Enter the city where you grew up
+3. Enter the name of a pet
+
+The program then combines the city and pet names to generate a band name.
+
+"""
+
+# Print a greeting message to the user
 print("Hello! Welcome to 'Band Name Generator' program!")
 
-#2. Ask the user for the city that they grew up in.
-city = input("Where did you grew up?\n")
+# Get the name of the city where the user grew up
+city = input("Where did you grow up?\n")
 
-#3. Ask the user for the name of a pet.
+# Get the name of the user's pet
 pet = input("What is your pet's name?\n")
 
-#4. Combine the name of their city and pet and show them their band name.
-#5. Make sure the input cursor shows on a new line:
+# Combine the city and pet names to generate a band name, and print it to the user
 print(f"Your band name could be {city} {pet}.")
+
