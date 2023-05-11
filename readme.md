@@ -14,7 +14,7 @@ Here is a brief description of each day's project:
 
 - Day 1 (11-May-23): Printing, Commenting, Debugging, String Manipulation and Variables [Link Day 1](https://github.com/ralamds/python_100_days_code/tree/main/day_1)
 - Day 2 (11-May-23): Data Type, Numbers, Operations, Type conversion, f-String. [Link Day 2](https://github.com/ralamds/python_100_days_code/tree/main/day_2) 
-- Day 3: 
+- Day 3: Conditional Statements, Logical Operators, Code Blocks and Scope 
 - Day 4: 
 
 
