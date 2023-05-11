@@ -11,7 +11,7 @@ I'm excited to embark on this journey and see where it takes me. Follow along if
 # Daily Project Descriptions
 Here is a brief description of each day's project:
 
-- Day 1: Simple exercises to get started with Python programming, including printing to the console, basic data types, and arithmetic operations. [Link](https://github.com/ralamds/python_100_days_code/tree/main/day_1)
+- Day 1: Printing, Commenting, Debugging, String Manipulation and Variables [Link](https://github.com/ralamds/python_100_days_code/tree/main/day_1)
 - Day 2: Introduction to control flow in Python, including if/else statements and loops. [Link](https://github.com/ralamds/python_100_days_code/tree/main/day_2) 
 - Day 3: More advanced control flow concepts, such as nested loops and the break/continue keywords.
 - Day 4: Introduction to functions and modules in Python, including defining and calling functions, and importing modules.
