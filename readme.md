@@ -7,3 +7,11 @@ The course is divided into sections, each of which focuses on a different topic 
 This repository will serve as a log of my progress, with each day's code stored in a separate file named according to the day and topic of the project. I will also include brief descriptions of each project and what I learned from it, as well as any challenges or roadblocks I encountered along the way.
 
 I'm excited to embark on this journey and see where it takes me. Follow along if you're interested in learning more about Python programming or want to join me on the 100-day coding challenge!
+
+# Daily Project Descriptions
+Here is a brief description of each day's project:
+
+- Day 1: Simple exercises to get started with Python programming, including printing to the console, basic data types, and arithmetic operations. (Link)[https://github.com/ralamds/python_100_days_code/tree/main/day_1]
+- Day 2: Introduction to control flow in Python, including if/else statements and loops. (Link)[https://github.com/ralamds/python_100_days_code/tree/main/day_2] 
+- Day 3: More advanced control flow concepts, such as nested loops and the break/continue keywords.
+- Day 4: Introduction to functions and modules in Python, including defining and calling functions, and importing modules.
