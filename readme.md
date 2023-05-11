@@ -11,7 +11,33 @@ I'm excited to embark on this journey and see where it takes me. Follow along if
 # Daily Project Descriptions
 Here is a brief description of each day's project:
 
-- Day 1: Printing, Commenting, Debugging, String Manipulation and Variables [Link](https://github.com/ralamds/python_100_days_code/tree/main/day_1)
-- Day 2: . [Link](https://github.com/ralamds/python_100_days_code/tree/main/day_2) 
+- Day 1 (11-May-23): Printing, Commenting, Debugging, String Manipulation and Variables [<Link>](https://github.com/ralamds/python_100_days_code/tree/main/day_1)
+- Day 2 (11-May-23): Data Type, Numbers, Operations, Type conversion, f-String. [<Link>](https://github.com/ralamds/python_100_days_code/tree/main/day_2) 
 - Day 3: 
 - Day 4: 
+
+
+---------------------------
+## Templete for everyday coding md files. 
+
+- Date: Include the date of the day you worked on the project.
+
+- Day Number: Include the number of the day in the 100-day challenge, such as "Day 1 of 100".
+
+- Project Description: Briefly describe the project or exercise you worked on that day. What was the goal of the project? What did you learn from it?
+
+- Code Snippets: Include any relevant code snippets that you worked on that day. This can help you and others see your progress over time.
+
+- Challenges: Describe any challenges or obstacles you encountered that day. What did you struggle with, and how did you overcome it?
+
+- Reflections: Take a few moments to reflect on what you learned that day. What did you enjoy about the project? What surprised you? What are you looking forward to in the upcoming days of the challenge?
+
+- Links: Include any relevant links to resources, tutorials, or documentation that you used that day. This can help you and others revisit those resources later on.
+
+- Date: 
+- Day Number: 
+- Project Description: 
+- Code Snippets: 
+- Challenges: 
+- Reflections: 
+- Links: 
