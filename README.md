@@ -15,7 +15,7 @@ Here is a brief description of each day's project:
 - Day 1 (11-May-23): Printing, Commenting, Debugging, String Manipulation and Variables 
 - Day 2 (11-May-23): Data Type, Numbers, Operations, Type conversion, f-String.  
 - Day 3 (12-May-23): Conditional Statements, Logical Operators, Code Blocks and Scope 
-- Day 4: 
+- Day 4 (13-May-23): Randomization and Python List
 
 
 ---------------------------
@@ -26,18 +26,18 @@ Here is a brief description of each day's project:
 - Day Number: Include the number of the day in the 100-day challenge, such as "Day 1 of 100".
 
 - Project Description: Briefly describe the project or exercise you worked on that day. e.g., 
- - What was the goal of the project? 
- - What did you learn from it?
+ + What was the goal of the project? 
+ + What did you learn from it?
 
 - Code Snippets: Include any relevant code snippets that you worked on that day. 
 
 - Challenges: Describe any challenges or obstacles you encountered that day. e.g., 
- - What did you struggle with, and how did you overcome it?
+ + What did you struggle with, and how did you overcome it?
 
 - Reflections: Take a few moments to reflect on what you learned that day. e.g., 
- - What did you enjoy about the project? 
- - What surprised you? 
- - What are you looking forward to in the upcoming days of the challenge?
+ + What did you enjoy about the project? 
+ + What surprised you? 
+ + What are you looking forward to in the upcoming days of the challenge?
 
 - Links: Include any relevant links to resources, tutorials, or documentation that you used that day. This can help you and others revisit those resources later on.
 
