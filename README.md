@@ -21,25 +21,25 @@ Here is a brief description of each day's project:
 ---------------------------
 ## Notes md files that includes  
 
-- Date: Include the date of the day I worked on the project.
+* Date: Include the date of the day I worked on the project.
 
-- Day Number: Include the number of the day in the 100-day challenge, such as "Day 1 of 100".
+* Day Number: Include the number of the day in the 100-day challenge, such as "Day 1 of 100".
 
-- Project Description: Briefly describe the project or exercise you worked on that day. e.g., 
- + What was the goal of the project? 
- + What did you learn from it?
+* Project Description: Briefly describe the project or exercise you worked on that day. e.g., 
+    + What was the goal of the project? 
+    + What did you learn from it?
 
-- Code Snippets: Include any relevant code snippets that you worked on that day. 
+* Code Snippets: Include any relevant code snippets that you worked on that day. 
 
-- Challenges: Describe any challenges or obstacles you encountered that day. e.g., 
- + What did you struggle with, and how did you overcome it?
+* Challenges: Describe any challenges or obstacles you encountered that day. e.g., 
+    + What did you struggle with, and how did you overcome it?
 
-- Reflections: Take a few moments to reflect on what you learned that day. e.g., 
- + What did you enjoy about the project? 
- + What surprised you? 
- + What are you looking forward to in the upcoming days of the challenge?
+* Reflections: Take a few moments to reflect on what you learned that day. e.g., 
+    + What did you enjoy about the project? 
+    + What surprised you? 
+    + What are you looking forward to in the upcoming days of the challenge?
 
-- Links: Include any relevant links to resources, tutorials, or documentation that you used that day. This can help you and others revisit those resources later on.
+* Links: Include any relevant links to resources, tutorials, or documentation that you used that day. This can help you and others revisit those resources later on.
 
 #### Date: 
 #### Day Number: 
